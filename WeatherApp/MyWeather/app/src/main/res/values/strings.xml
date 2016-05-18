@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="helper">Cách sử dụng phần mềm</string>
+    <string name="evalute_software">Đánh giá phần mềm</string>
+    <string name="action_share">Share</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="weather_hour">Dự báo thời tiết theo giờ</string>
+    <string name="weather_today">Dự báo thời tiết hôm nay</string>
+    <string name="weather_map">Dự báo thời tiết theo MAP</string>
+    <string name="weather_city">Dự báo theo Thành Phố</string>
+    <string name="exit">Thoát</string>
+    <string name="title_activity_weather_maps">Google MAP</string>
+    <string name="title_check_internet">Tình trạng INTERNET</string>
+    <string name="message_internet">Kiểm tra INTERNET</string>
+    <string name="sucgio">Sức gió</string>
+    <string name="nhietdo">Nhiệt độ</string>
+    <string name="doam">Độ ẩm</string>
+    <string name="nhietdomin">Nhiệt độ min</string>
+    <string name="apsuat">Áp suất</string>
+    <string name="nhietdomax">Nhiệt độ max</string>
+    <string name="textsize">20dp</string>
+    <string name="helper_content">
+        Điểm thông dụng của phần mềm\n
+        Dự báo thời tiết trên Android
+        The Weather App for Android là một
+        ứng dụng hữu ích được tích hợp trên Android.
+        Giúp bạn có thể xem được dự báo thời tiết
+        hiện tại và có thể dự báo trong 5 ngày
+        tới để có thể chủ động trong công
+        việc và cuộc sống.
+        Bạn được cung cấp thông tin chi tiết về
+        tốc độ gió, độ ẩm, nhiệt độ cao nhất, nhiệt độ
+        thấp nhất trong ngày và hình ảnh biểu tượng nắng,
+        mưa, hay các biểu hiện thời tiết khác.\n\n
+        Cách sử dụng phần mềm\n
+        Di chuyển tay vào góc trái màn hình rồi click
+        bạn sẽ thấy hiện ra 1 danh sách các chức năng gồm
+        Xem thời tiết tại điểm hiện tại, theo Map, theo Thành phố
+        và thoát chương trình. Trong quá trình xem bạn có thể đánh giá
+        phần mềm của chúng tôi bằng cách click vào action_bar bên góc phải
+        \n\n
+        Chúc bạn có một ngày tuyệt vời !!!
+    </string>
+    <string-array name="arrTinhThanh">
+        <item>An Giang</item>
+        <item>Vũng Tàu</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Kạn</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Định</item>
+        <item>Bình Dương</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hậu Giang</item>
+        <item>Hòa Bình</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lâm Đồng</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên Huế</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+        <item>Phú Yên</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+    </string-array>
+
+</resources>

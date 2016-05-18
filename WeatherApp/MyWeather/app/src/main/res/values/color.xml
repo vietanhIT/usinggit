@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#FF0CBF66</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+    <color name="foucus_list">#0d0d0d</color>
+    <color name="press_list">#ef6b06</color>
+    <color name="foucus_press_list">#2def06</color>
+</resources>

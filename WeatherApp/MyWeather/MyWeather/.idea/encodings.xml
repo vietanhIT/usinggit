@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/L_Drawer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/controllers/TypePrediction.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/controllers/Update.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/controllers/WeatherAsyncTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/fragment/FragmentMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/Clouds.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/GoogleData.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/List.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/Main.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/Sys.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/tuanlv/myweather/models/Wind.java" charset="windows-1258" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_share.png" charset="windows-1258" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

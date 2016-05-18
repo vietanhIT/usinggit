@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginTop="5dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_weight="0.8"
+        android:layout_width="match_parent"
+        android:src="@drawable/ic_city"
+        android:layout_gravity="left"
+        android:background="@android:color/transparent"
+        android:layout_height="50dp" />
+    <TextView
+        android:layout_weight="0.2"
+        android:layout_width="match_parent"
+        android:id="@+id/tvCity"
+        android:gravity="left"
+        android:layout_height="50dp"
+        android:textSize="20dp"
+        />
+</LinearLayout>
